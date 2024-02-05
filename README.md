@@ -1,2 +1,2 @@
-# Pong-Final-
+# Pong-Final
 computers Advanced Project
