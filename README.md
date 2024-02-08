@@ -1,7 +1,8 @@
 # Pong-Final
 computers Advanced Project
 
-[]single player 
+[]single player ( AI)
+
 []2 player
 
 #TO DO List
@@ -15,16 +16,23 @@ computers Advanced Project
 
 []Paddle for player 2- Blue 
 
-[] 2 net
+[] 2 nets
+
+[] dotted line in the middle 
 
 [] score board 
 
-[] 
+[] timer maybe
 
-# Game Rules 
+# Game Rules/ Functions
 [] if player 1 has a score 3 more than player 
 
 [] 2 then the ball is faster for player 1 
 
 [] if the players are tied then ball size increases
 
+- Obsticles 
+
+[]-part of the wall is blocked 
+
+[]-
